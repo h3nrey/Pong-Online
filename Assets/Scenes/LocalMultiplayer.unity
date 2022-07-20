@@ -680,6 +680,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ScoreCanvas
       objectReference: {fileID: 0}
+    - target: {fileID: 580864898843268820, guid: 2cb5c751ca9954449ae764ea2fd8a48b, type: 3}
+      propertyPath: m_Camera
+      value: 
+      objectReference: {fileID: 2107655672}
     - target: {fileID: 580864898843268821, guid: 2cb5c751ca9954449ae764ea2fd8a48b, type: 3}
       propertyPath: m_Pivot.x
       value: 0
@@ -1248,7 +1252,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3497201184462488831, guid: b8947f71c28986d48a41b12c4e009fb0, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3497201184487252797, guid: b8947f71c28986d48a41b12c4e009fb0, type: 3}
       propertyPath: m_AnchorMax.y
